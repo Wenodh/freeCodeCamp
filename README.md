@@ -1,2 +1,2 @@
 # freeCodeCamp
-completed chalnges and projects
+completed challenges and projects
